@@ -55,6 +55,26 @@ F:\DEBUG\C#\CodeJudge\CodeJudge\obj\x86\Release\CodeJudge.Properties.Resources.r
 F:\DEBUG\C#\CodeJudge\CodeJudge\obj\x86\Release\CodeJudge.csproj.GenerateResource.Cache
 F:\DEBUG\C#\CodeJudge\CodeJudge\obj\x86\Release\CodeJudge.exe
 F:\DEBUG\C#\CodeJudge\CodeJudge\obj\x86\Release\CodeJudge.pdb
+<<<<<<< HEAD
+F:\GIT\CodesJudge\CodeJudge\bin\Release\CodeJudge.exe.config
+F:\GIT\CodesJudge\CodeJudge\bin\Release\CodeJudge.exe
+F:\GIT\CodesJudge\CodeJudge\bin\Release\CodeJudge.pdb
+F:\GIT\CodesJudge\CodeJudge\bin\Release\CSkin.dll
+F:\GIT\CodesJudge\CodeJudge\bin\Release\FastColoredTextBox.dll
+F:\GIT\CodesJudge\CodeJudge\bin\Release\Newtonsoft.Json.dll
+F:\GIT\CodesJudge\CodeJudge\bin\Release\Qiniu.4.0.dll
+F:\GIT\CodesJudge\CodeJudge\bin\Release\SharpCompress.dll
+F:\GIT\CodesJudge\CodeJudge\bin\Release\CSkin.xml
+F:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.frm_init.resources
+F:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.Frm_AddCloud.resources
+F:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.frm_Info.resources
+F:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.Judge.resources
+F:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.Main.resources
+F:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.Properties.Resources.resources
+F:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.csproj.GenerateResource.Cache
+F:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.exe
+F:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.pdb
+=======
 D:\GIT\CodesJudge\CodeJudge\bin\Release\CodeJudge.exe.config
 D:\GIT\CodesJudge\CodeJudge\bin\Release\CodeJudge.exe
 D:\GIT\CodesJudge\CodeJudge\bin\Release\CodeJudge.pdb
@@ -73,3 +93,4 @@ D:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.Properties.Resources.resou
 D:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.csproj.GenerateResource.Cache
 D:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.exe
 D:\GIT\CodesJudge\CodeJudge\obj\x86\Release\CodeJudge.pdb
+>>>>>>> 56af97fb243c361e4d373265fb2faf19cde2f10d

@@ -179,7 +179,6 @@ namespace CodeJudge
                     //下载资源文件
                     judgeInfoLocation = ProblemDir + "\\" + problemId + ".info";
                     judgeDataLocation = ProblemDir + "\\" + problemId + ".data";
-
                     //清理旧的题目INFO DATA数据
                     if (File.Exists(judgeInfoLocation))
                         File.Delete(judgeInfoLocation);
@@ -259,7 +258,6 @@ namespace CodeJudge
                         CodeJudge.QiniuAK = Cloud_ACCESS_KEY;
                         CodeJudge.QiniuSK = Cloud_SECRET_KEY;
                         CodeJudge.ShowDialog();
-                       
                     }
                 
                 }
