@@ -68,51 +68,51 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="窗口\Form1.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="窗口\Form1.Designer.cs">
+    <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="窗口\Frm_AddCloud.cs">
+    <Compile Include="Frm_AddCloud.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="窗口\Frm_AddCloud.Designer.cs">
+    <Compile Include="Frm_AddCloud.Designer.cs">
       <DependentUpon>Frm_AddCloud.cs</DependentUpon>
     </Compile>
-    <Compile Include="窗口\frm_Info.cs">
+    <Compile Include="frm_Info.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="窗口\frm_Info.Designer.cs">
+    <Compile Include="frm_Info.Designer.cs">
       <DependentUpon>frm_Info.cs</DependentUpon>
     </Compile>
-    <Compile Include="窗口\Judge.cs">
+    <Compile Include="Judge.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="窗口\Judge.Designer.cs">
+    <Compile Include="Judge.Designer.cs">
       <DependentUpon>Judge.cs</DependentUpon>
     </Compile>
-    <Compile Include="窗口\Main.cs">
+    <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="窗口\Main.Designer.cs">
+    <Compile Include="Main.Designer.cs">
       <DependentUpon>Main.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="窗口\Form1.resx">
+    <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="窗口\Frm_AddCloud.resx">
+    <EmbeddedResource Include="Frm_AddCloud.resx">
       <DependentUpon>Frm_AddCloud.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="窗口\frm_Info.resx">
+    <EmbeddedResource Include="frm_Info.resx">
       <DependentUpon>frm_Info.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="窗口\Judge.resx">
+    <EmbeddedResource Include="Judge.resx">
       <DependentUpon>Judge.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="窗口\Main.resx">
+    <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

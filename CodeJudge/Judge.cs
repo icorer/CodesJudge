@@ -493,7 +493,6 @@ namespace CodeJudge
 
         private void Judge_Load(object sender, EventArgs e)
         {
-           // MessageBox.Show("ok");
             //获取云类型
             if (!File.Exists(Cloud_flag))
                 Cloud_type = true; //默认七牛云
@@ -503,7 +502,7 @@ namespace CodeJudge
                 String[] temp = File.ReadAllLines(Cloud_flag, Encoding.Default);
                 CloudDataUrl = temp[0].ToString()+"data/"; // 获取文件中保存的云URL链接
                 CloudScriptUrl = temp[1].ToString();// 获取文件中保存的云端脚本URL链接
-                //MessageBox.Show("ok");
+
             }
         }
 

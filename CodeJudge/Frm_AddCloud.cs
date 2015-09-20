@@ -23,6 +23,7 @@ namespace CodeJudge
 
         int CheckUrlExist(String ApiScriptUrl) //检测脚本网页API接口是否完整
         {
+
             try
             {
                 //Creating the HttpWebRequest
@@ -73,6 +74,7 @@ namespace CodeJudge
             Cloud_Script_Url = "";
             Cloud_Url = skinTextBox1.Text;
             Cloud_Url = Cloud_Url.Trim();
+
             char[] charsToTrim = { '/'};
             Cloud_Url = Cloud_Url.TrimEnd(charsToTrim); //去除结尾的反斜杠
 
